@@ -8,6 +8,7 @@ body {
   background: url(Assets/freedom.jpg) no-repeat center;
   background-size: cover;
   color: #333;
+  text-decoration: none;
 }
 
 html, body {
@@ -39,16 +40,32 @@ body {
   font-size: 2.5rem;
   font-style: italic;
   font-weight: 800;
-  padding-top: 3rem;
-  letter-spacing: .1rem;  
-  
+  padding-top: 1rem;
+  letter-spacing: .1rem;    
 }
 
 p {
   display: block;
-  margin: 6rem;
+  margin: 4rem;
 }
 
+.languages {
+  border: .15rem solid #333;
+  border-radius: 5%;
+  font-family: 'Crimson Text', serif;
+  font-size: 1.8rem;
+  font-style: italic;
+  color: #333;
+  font-weight: 800;
+  text-decoration: none;
+  padding: .4rem 1.5rem;
+  margin: 1.5rem;
+}
+
+.languages:hover {
+  border-color: lightgray;
+  color: lightgray;
+}
 
 /*---------------------------------
 
