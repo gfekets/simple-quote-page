@@ -15,7 +15,7 @@ html, body {
   margin: 0;
   padding: 0;
   font-size: 100%;
-  line-height: 1.7
+  line-height: 1.6
 }
 
 body {
@@ -31,13 +31,13 @@ body {
 
 .quote {
   font-family: 'Julius Sans One', sans-serif;
-  font-size: 2.9rem;
+  font-size: 2.6rem;
   font-weight: 800;
 }
 
 .author {
   font-family: 'Crimson Text', serif;
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   font-style: italic;
   font-weight: 800;
   padding-top: 1rem;
@@ -53,13 +53,13 @@ p {
   border: .15rem solid #333;
   border-radius: 5%;
   font-family: 'Crimson Text', serif;
-  font-size: 1.8rem;
+  font-size: 1.6rem;
   font-style: italic;
   color: #333;
   font-weight: 800;
   text-decoration: none;
   padding: .4rem 1.5rem;
-  margin: 1.5rem;
+  margin: 1rem; 
 }
 
 .languages:hover {
@@ -78,7 +78,7 @@ p {
 html, body {
   margin: 0;
   padding: 0;
-  font-size: 85%;
+  font-size: 80%;
 }
   
 .wrapper {
@@ -101,7 +101,7 @@ html, body {
 html, body {
   margin: 0;
   padding: 0;
-  font-size: 75%;
+  font-size: 70%;
 }
   
 .wrapper {
